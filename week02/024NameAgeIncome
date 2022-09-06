@@ -1,0 +1,7 @@
+fun main() {
+    val myName = "Alexander Isak"
+    val age = 25
+    val annualIncome = 95000.00
+    
+    println("Hello my name is " +myName+ ", my age is " +age+ " and I hope to make $" +annualIncome+ " per year.")
+    }
